@@ -1,7 +1,1 @@
-<?php
-
-echo("Hello World!");
-
-phpinfo();
-
-?>
+<?php phpinfo(); ?>
